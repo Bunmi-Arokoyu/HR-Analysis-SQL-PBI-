@@ -1,24 +1,26 @@
 # HR-Analysis-SQL-PBI-
 
-Data Used
+###Project Overview
+
+### Data Source
 Data - HR Data with over 22000 rows from the year 2000 to 2020.
 
-Data Cleaning & Analysis - MySQL Workbench
+### Tools
 
-Data Visualization - PowerBI
+- MySQL Workbench - data Cleaning & Analysis  
+- PowerBI -Data Visualization
 
- Questions
+### Data cleaning and preparation
+
+### Exploratory Data Analysis
+
+## Data Analysis
 The following questions were explored  to gain insight into the HR data.
-
-What is the gender breakdown of employees in the company?
-
-What is the race/ethnicity breakdown of employees in the company?
-
-What is the age distribution of employees in the company?
-
-How many employees work at headquarters versus remote locations?
-
-What is the average length of employment for employees who have been terminated?
+- What is the gender breakdown of employees in the company?
+- What is the race/ethnicity breakdown of employees in the company?
+- What is the age distribution of employees in the company?
+- How many employees work at headquarters versus remote locations?
+- What is the average length of employment for employees who have been terminated?
 
 How does the gender distribution vary across departments and job titles?
 
