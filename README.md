@@ -8,6 +8,7 @@ Data - HR Data with over 22000 rows from the year 2000 to 2020.
 
 # Questions
 What is the gender breakdown of employees in the company?
+
 What is the race/ethnicity breakdown of employees in the company?
 What is the age distribution of employees in the company?
 How many employees work at headquarters versus remote locations?
