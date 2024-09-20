@@ -1,13 +1,14 @@
 # HR-Analysis-SQL-PBI-
-# Data Used
+
+Data Used
 Data - HR Data with over 22000 rows from the year 2000 to 2020.
 
-# Data Cleaning & Analysis - MySQL Workbench
+Data Cleaning & Analysis - MySQL Workbench
 
-# Data Visualization - PowerBI
+Data Visualization - PowerBI
 
-# Questions
-The following questions were explored  to gain indight into the HR data.
+ Questions
+The following questions were explored  to gain insight into the HR data.
 
 What is the gender breakdown of employees in the company?
 
@@ -31,7 +32,8 @@ How has the company's employee count changed over time based on hire and term da
 
 What is the tenure distribution for each department?
 
-# Summary of Findings
+Summary of Findings
+
 There are more male employees
 
 White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
